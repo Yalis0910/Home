@@ -1,0 +1,26 @@
+{
+  "pc": [
+    "/images/pc/background1.jpg",
+    "/images/pc/background10.jpg",
+    "/images/pc/background2.jpg",
+    "/images/pc/background3.jpg",
+    "/images/pc/background4.jpg",
+    "/images/pc/background5.jpg",
+    "/images/pc/background6.jpg",
+    "/images/pc/background7.jpg",
+    "/images/pc/background8.jpg",
+    "/images/pc/background9.jpg"
+  ],
+  "mobile": [
+    "/images/mobile/2026-04-03-f2d67e3f21b54b56ffd78848d63d4239.webp",
+    "/images/mobile/998460c974a9d86bf207232319a9da5b.webp",
+    "/images/mobile/background1.webp",
+    "/images/mobile/background2.webp",
+    "/images/mobile/background3.webp",
+    "/images/mobile/background4.webp",
+    "/images/mobile/background5.webp",
+    "/images/mobile/background6.webp",
+    "/images/mobile/c9d2c11709acde6a8ba1d51b5603694b.webp",
+    "/images/mobile/cf1a42dacc82b0206b648dcdfa3f184b.webp"
+  ]
+}
